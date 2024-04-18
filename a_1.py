@@ -1,6 +1,5 @@
 """
     Shoutout PvC
-    Used lab 3 solutions from Prof. Michael Nixon as a template for my pygame
 """
 
 import pygame
